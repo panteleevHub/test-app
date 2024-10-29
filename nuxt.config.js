@@ -47,10 +47,4 @@ export default {
   styleResources: {
     scss: ['@/assets/scss/*.scss']
   },
-
-  target: 'static',
-
-  router: {
-    base: 'https://panteleevhub.github.io/test-app'
-  }
 }
